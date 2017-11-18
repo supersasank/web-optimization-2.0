@@ -1,0 +1,19 @@
+{
+  "name": "teja",
+  "version": "1.0.0",
+  "description": "for web optimization",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supersasank/web-optimization.git"
+  },
+  "author": "teja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supersasank/web-optimization/issues"
+  },
+  "homepage": "https://github.com/supersasank/web-optimization#readme"
+}
